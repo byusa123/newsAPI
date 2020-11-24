@@ -11,4 +11,4 @@ class Article:
         self.content = content
         self.publishedAt = publishedAt
         self.author = author
-        # self.vote_count = vote_count
+       
