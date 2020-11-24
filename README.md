@@ -21,6 +21,6 @@ As a user, I would want to click on an article and read the full article on the 
 - flask/ virtual environment 
 
 
-#for contribution call me on 
+# For contribution call me on 
 0784315067
 
