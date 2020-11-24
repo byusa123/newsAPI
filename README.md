@@ -6,6 +6,8 @@ https://github.com/byusa123/newsAPI.git
 This is an application that will help them list and preview news articles from various sources.  
 # contact details 
 EMAIL:byusagisele@gmail.com 
+
+# author
 NAMES :BYUSA uwase Giselle
 # User stories 
 
