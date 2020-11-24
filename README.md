@@ -1,5 +1,7 @@
 # NewsAPI
 
+
+https://github.com/byusa123/newsAPI.git
 # Description
 This is an application that will help them list and preview news articles from various sources.  
 # contact details 
