@@ -1,6 +1,6 @@
 class Source:
     '''
-    Sourcers class to define News Objects
+    Sourcers Class to define News Objects
     '''
     def __init__(self,id,name,description,url,category,language,country):
         self.id =id
