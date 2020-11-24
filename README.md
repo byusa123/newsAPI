@@ -1,4 +1,4 @@
-# NewsAPI
+# NewsAPI project
 
 
 https://github.com/byusa123/newsAPI.git
