@@ -11,7 +11,7 @@ def index():
     '''
     # Getting artcle sources
     all_sources = get_sources()
-    title = 'Home - Welcome to E-News Website'
+    title = ' This is the  News Website'
 
     return render_template('index.html', title = title, sources = all_sources )
 
